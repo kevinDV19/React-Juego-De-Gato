@@ -1,3 +1,3 @@
 # React-Juego-De-Gato
 
-<img src="ejemplo.png">
+<img src="Ejemplo.png">

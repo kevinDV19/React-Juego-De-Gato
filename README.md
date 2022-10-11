@@ -1,4 +1,4 @@
-# React-Juego-De-Gato
+# Juego de Gato en React
 
 # Jugar: https://kevindv19.github.io/React-Juego-De-Gato/
 
